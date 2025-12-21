@@ -11,7 +11,7 @@
 #prenom=["alice","bob","charlie","dina"]
 #for i in prenom:
    # print("bonjour",i)
-   
+  
 fruit=["apple","banana","cherry","kiwi","mango"]
 new= [x for x in fruit if "a" in x]
 print(new)
