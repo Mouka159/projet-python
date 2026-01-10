@@ -2,7 +2,6 @@ print("Entrer votre nom ,prenom,age et de verifier s'il est admissible")
 name=input("Entrer votre nom:")
 user_name=input("Entrer votre prenom:")
 age=input("Entrer votre age:")
-print("Nous allons verifier si vous avez l' autorisation")
 if  int(age)> 18:
     print("vous etes autoriser a vous inscrire Monsieur " +name ," " +user_name)
 else:
