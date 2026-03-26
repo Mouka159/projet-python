@@ -1,4 +1,4 @@
-print("Choisissez un nombre entier secret")
+print("Choisissez un nombre entier secret:")
 secret_number=int(input())
 print("Deviner le nombre secret:")
 devine=int(input())
